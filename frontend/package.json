@@ -82,7 +82,7 @@
     "@typescript-eslint/parser": "^6.7.2",
     "@typescript-eslint/eslint-plugin-tslint": "^6.7.2",
     "codelyzer": "^6.0.0",
-    "eslint": "^8.49.0",
+    "eslint": "^9.0.0",
     "eslint-config-standard-with-typescript": "^39.0.0",
     "eslint-plugin-import": "^2.28.1",
     "eslint-plugin-node": "^11.1.0",
@@ -90,7 +90,7 @@
     "eslint-config-prettier": "7.1.0",
     "eslint-plugin-jsdoc": "^30.7.9",
     "eslint-plugin-standard": "^4.1.0",
-    "jasmine": "^3.9.0",
+    "jasmine": "^5.0.0",
     "jasmine-core": "~3.9.0",
     "jasmine-spec-reporter": "~7.0.0",
     "karma": "^6.0.3",
@@ -98,8 +98,8 @@
     "karma-coverage": "^2.0.3",
     "karma-jasmine": "~4.0.1",
     "karma-jasmine-html-reporter": "^1.7.0",
-    "stylelint": "^13.8.0",
-    "stylelint-config-sass-guidelines": "^7.1.0",
+    "stylelint": "^16.1.0",
+    "stylelint-config-sass-guidelines": "^10.0.0",
     "stylelint-scss": "^3.18.0",
     "ts-node": "^10.8.0"
   }
